@@ -1,5 +1,5 @@
 # ProvidOS
-arch based OS made by a 14 years old with ❤️. made with archiso.
+arch based OS made by myself, made with archiso.
 Use the Caelestia shell alonside with astraunot
 ## To compile
 ```bash
